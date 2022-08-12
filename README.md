@@ -1,26 +1,26 @@
-1. Crear un repositorio remoto
+LISTO -> 1. Crear un repositorio remoto
 El participante A deberá crear un nuevo repositorio en https://github.com.
 Es importante que el repositorio se cree vacío (sin tildar la opción del README.md).
 
-2. Invitar a los colaboradores
+LISTO -> 2. Invitar a los colaboradores
 El participante A deberá invitar al participante B como colaborador del repositorio
 que creó anteriormente.
 ¡Atención! Si el participante B acaba de crear su cuenta de GitHub, es posible que
 no figure en el formulario de búsqueda, deberán esperar unos minutos para poder
 hacerlo.
 
-3. Crear un repositorio local y trabajar sobre él
+LISTO -> 3. Crear un repositorio local y trabajar sobre él
 El participante A deberá crear un repositorio local, vincularlo con el repositorio
 remoto que creó anteriormente y subir un archivo README.md con el título del
 repositorio.
 Para eso, es recomendable seguir las instrucciones que figuran en GitHub al crear un
 repositorio.
 
-4. Clonar un repositorio remoto
+LISTO -> 4. Clonar un repositorio remoto
 Una vez que el participante A haya subido el primer archivo, el participante B
 deberá clonar el repositorio remoto creado por el participante A.
 
-5. Trabajar en archivos diferentes (parte 1)
+EN PROCESO -> 5. Trabajar en archivos diferentes (parte 1)
 Ambos participantes deberán crear 3 archivos cada uno. Los archivos deben tener
 todos nombres diferentes (ej. pikachu.txt), así que ¡a ponerse de acuerdo!
 Una vez creados, deberán agregarles contenido, agregarlos al repositorio local y
